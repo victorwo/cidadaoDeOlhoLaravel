@@ -1,0 +1,14 @@
+body {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#botao-enviar{
+  margin-top:10px;
+}
+
+.h2{
+  padding-bottom: 10px;
+}
