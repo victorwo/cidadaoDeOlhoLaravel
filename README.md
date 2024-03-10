@@ -12,4 +12,13 @@ Projeto para poder verificar os deputados da Assembleia Legislativa de Minas Ger
 
   . Após isso o sistema já está funcionando. E podemos buscar o mês de escolha para ver os deputados que mais gastaram nesse mês escolhido.
 
+  As configurações do banco de dados deve ser a seguinte: 
+
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=deputados
+DB_USERNAME=root
+DB_PASSWORD=
+
   
